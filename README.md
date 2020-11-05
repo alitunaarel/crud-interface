@@ -9,7 +9,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### Deployment
 
-This App is deployed on Netlify : [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This App is deployed on Netlify : [Project](https://quop-crud.netlify.app/)
 
 ## Contact List
 
@@ -30,3 +30,4 @@ Contact List is a simple web application to save your contact in order not to mi
 * Netlify
 
 ### App demo
+Deployed on Netlify,  [Click to see it](https://quop-crud.netlify.app/)
